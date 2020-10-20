@@ -1,5 +1,5 @@
-# vue-test
-
+# Vue JS Todo List
+Simple application created on Vue JS, Vue Router
 ## Project setup
 ```
 npm install
